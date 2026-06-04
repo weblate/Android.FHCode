@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="settings_theme_radio2">Сфера Тьмы</string>
+    <string name="settings_theme_radio2">Темный</string>
     <string name="shortcut_settings">Настройка</string>
     <string name="action_new_file">Новый файл</string>
     <string name="settings_theme_radio1">Свет</string>
