@@ -15,7 +15,7 @@
     <string name="links_text">- Proyek: https://github.com/FredHappyface/Android.FHCode
 \n- Lisensi: https://github.com/FredHappyface/Android.FHCode/blob/main/LICENSE.md</string>
     <string name="blank_file_text">[Ini adalah file kosong, buka file atau edit file ini dan simpan]</string>
-    <string name="license_text">Sitemap _ FredHappyface</string>
+    <string name="license_text">"Sitemap   FredHappyface"</string>
     <string name="dialog_new_confirm">Login</string>
     <string name="action_open">Login</string>
     <string name="settings_theme">Login</string>
@@ -24,7 +24,7 @@
     <string name="title_activity_about">Login</string>
     <string name="settings_text_size">Ukuran Teks</string>
     <string name="features_heading">Sitemap</string>
-    <string name="license_heading">Login Login</string>
+    <string name="license_heading">Lisensi MIT</string>
     <string name="action_save">Sitemap</string>
     <string name="settings_theme_radio4">Login</string>
     <string name="dialog_new_cancel">Sitemap</string>
